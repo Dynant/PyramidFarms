@@ -2,10 +2,10 @@
 Minecraft 1.15+ Datapack to turn your Pyramids (Desert and Jungle) into Sand and Gravel Farms.
 
 ## Desert Pyramid: Sand
-Inside the Desert Pyramid we spawn custom Husks. The husks will drop by default 0 - 1 sand when they die.
+Inside the Desert Pyramid we spawn custom Husks. The husks will drop by default 0-2 sand when they die and 0-1 extra for each looting level.
 
 ## Jungle Pyramid: Gravel
-Inside a Jungle Pyramid we spawn custom Strays. The strays will drop by default 0 - 1 gravel when they die.
+Inside a Jungle Pyramid we spawn custom Strays. The strays will drop by default 0-3 gravel when they die and 0-1 extra for each looting level.
 
 # Installation
 Download the latest release zip. Unpack the zip file and move the `pyramid-farms` directory inside your `[world directory]/datapack` directory
