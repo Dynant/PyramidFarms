@@ -1,5 +1,5 @@
 # Pyramid Farms
-Minecraft Datapack to turn your Pyramids (Desert and Jungle) into Sand and Gravel Farms.
+Minecraft 1.15+ Datapack to turn your Pyramids (Desert and Jungle) into Sand and Gravel Farms.
 
 ## Desert Pyramid: Sand
 Inside the Desert Pyramid we spawn custom Husks. The husks will drop by default 0 - 1 sand when they die.
