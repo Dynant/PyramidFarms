@@ -8,12 +8,12 @@ Inside the Desert Pyramid we spawn custom Husks. The husks will drop by default 
 Inside a Jungle Pyramid we spawn custom Strays. The strays will drop by default 0-3 gravel when they die and 0-1 extra for each looting level.
 
 # Installation
-Download the latest release zip. Unpack the zip file and move the `pyramid-farms-sand` and/or `pyramid-farms-gravel` directories inside your `[world directory]/datapack` directory
-
-Open Minecraft, load your world and run `/reload` to load the datapack.
+- Download the latest release zip for the sand and/or gravel farm.
+- Put zip(s) in the `[world directory]/datapack` directory
+- Open Minecraft, load your world and run `/reload` to load the datapack.
 
 # Update
-Follow the same instructions as in Installation and replace the `pyramid-farms-(sand/gravel)` directories with the newly downloaded version. After that run `/reload` inside the game.
+Follow the same instructions as in Installation and replace the `pyramid-farms-(sand/gravel)` zip with the newly downloaded version. After that run `/reload` inside the game.
 
 # Customize
 If you want to change the drop amount, you can edit the loot table files inside the `pyramid-farms-(sand-gravel)/loot_tables` directory
